@@ -10,7 +10,7 @@ This repository services as a <b>personal learning archive:</b>
 ** [Journals](journals) - Learning journals and reflections.  
 ** [Notes](notes) - Course, certification and case study notes, condensed concepts, and technical summaries.  
 ** [Resources](resources) - Curated links, papers, articles, and references.  
-** [Mini-Projects](projects) - Mini projects and assignments to learn new concepts.  
+** [Mini-Projects](mini-projects) - Mini projects and assignments to learn new concepts.  
 ** [Writings](writings) - Essays, Blog-style posts, or more profound exploration of a topic.  
 
 ## 🧭 Navigation & Metadata
